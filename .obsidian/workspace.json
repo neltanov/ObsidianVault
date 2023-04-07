@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d525491a5d80d525",
+            "id": "d03e2c885401bb60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,26 @@
                 "file": "Подготовка к диктанту по терверу.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4219253fbfe9f265",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/Лотов В.И. Методичка ТВиМС.pdf"
+              }
+            }
+          },
+          {
+            "id": "d247131915041dda",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/Диктант_ФИТ_2023.pdf"
               }
             }
           }
@@ -147,10 +167,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "14bd892f3459e3d9",
+  "active": "d03e2c885401bb60",
   "lastOpenFiles": [
-    "Таблицы распределений случайных величин.md",
+    "files/Лотов В.И. Методичка ТВиМС.pdf",
     "Подготовка к диктанту по терверу.md",
+    "files/Диктант_ФИТ_2023.pdf",
+    "Таблицы распределений случайных величин.md",
     "Untitled.canvas",
     "2023-04-07.md",
     "some note.md",

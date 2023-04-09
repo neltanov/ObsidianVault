@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Подготовка к диктанту по терверу.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,12 +30,34 @@
             }
           },
           {
-            "id": "d247131915041dda",
+            "id": "59bb04aa36639d09",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "files/Диктант_ФИТ_2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "4f4864ded85a7047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Таблицы распределений случайных величин.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a71212377bbdef93",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/Быстров А.А. и Ковалевский П.А. и  Лотов В.И. Практикум по ТВиМС.pdf"
               }
             }
           }
@@ -171,8 +193,9 @@
   "lastOpenFiles": [
     "files/Лотов В.И. Методичка ТВиМС.pdf",
     "Подготовка к диктанту по терверу.md",
-    "files/Диктант_ФИТ_2023.pdf",
     "Таблицы распределений случайных величин.md",
+    "files/Диктант_ФИТ_2023.pdf",
+    "files/Быстров А.А. и Ковалевский П.А. и  Лотов В.И. Практикум по ТВиМС.pdf",
     "Untitled.canvas",
     "2023-04-07.md",
     "some note.md",
